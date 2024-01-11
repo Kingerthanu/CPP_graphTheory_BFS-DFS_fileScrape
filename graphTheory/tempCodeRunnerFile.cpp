@@ -1,0 +1,1 @@
+    std::cout << vertex-1 << '\n';
